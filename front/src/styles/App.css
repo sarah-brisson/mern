@@ -1,0 +1,41 @@
+.auth-all {
+  margin-top: 5%;
+}
+
+.auth {
+  width: 400px;
+  float: left;
+  margin-left: 20%;
+}
+
+.register {
+  width: 400px;
+  margin-left: 38%;
+}
+
+#title-auth {
+  text-align: center;
+  float: center;
+}
+
+#register {
+  text-align: center;
+  padding-top: 10%;
+}
+
+#theLogo {
+  width: 80px;
+}
+
+#name {
+  width: 300px
+}
+
+.header {
+  text-align: center;
+  margin-top: 4%;
+}
+
+em {
+  color: red;
+}
